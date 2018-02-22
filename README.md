@@ -14,6 +14,8 @@
 
 - **A Lyapunov Analysis of Momentum Methods in Optimization** (2016) Recht [[pdf]](https://arxiv.org/abs/1611.02635)  [[lecture notes]](http://pages.cs.wisc.edu/~brecht/cs726docs/HeavyBallLinear.pdf) 
 
+- **signSGD: compressed optimisation for non-convex problems** (2018) Jeremy Bernstein, Yu-Xiang Wang, Kamyar Azizzadenesheli, Anima Anandkumar [[pdf]](https://arxiv.org/abs/1802.04434) 
+
 #### **Learning Rates:**
 
 - **The Marginal Value of Adaptive Gradient Methods in Machine Learning** (2017) Ashia C. Wilson, Rebecca Roelofs, Mitchell Stern, Nathan Srebro, Benjamin Recht [[pdf]](https://arxiv.org/abs/1705.08292) 
