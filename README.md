@@ -36,6 +36,10 @@
 
 - **Fixing Weight Decay Regularization in Adam** (2017) Ilya Loshchilov, Frank Hutter [[pdf]](https://arxiv.org/abs/1711.05101) 
 
+- **Weight Uncertainty in Neural Networks** (2015) Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra [[pdf]](https://arxiv.org/abs/1505.05424) 
+
+
+
 #### **Bayesian Intepretations:**
 
 - **Early Stopping is Nonparametric Variational Inference** (2015) Dougal Maclaurin, David Duvenaud, Ryan P. Adams [[pdf]](https://arxiv.org/abs/1504.01344)
