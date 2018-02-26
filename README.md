@@ -39,7 +39,6 @@
 - **Weight Uncertainty in Neural Networks** (2015) Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra [[pdf]](https://arxiv.org/abs/1505.05424) 
 
 
-
 #### **Bayesian Intepretations:**
 
 - **Early Stopping is Nonparametric Variational Inference** (2015) Dougal Maclaurin, David Duvenaud, Ryan P. Adams [[pdf]](https://arxiv.org/abs/1504.01344)
@@ -61,6 +60,12 @@
 #### **Reviews:**
 
 - **An overview of gradient descent optimization algorithms** (2017) Sebastian Ruder [[pdf]](https://arxiv.org/abs/1609.04747)
+
+
+#### **Relevant Variants:**
+
+- **Reinforced stochastic gradient descent for deep neural network learning** (2017) Haiping Huang, Taro Toyoizumi [[pdf]](https://arxiv.org/abs/1701.07974)
+
 
 ---
 
